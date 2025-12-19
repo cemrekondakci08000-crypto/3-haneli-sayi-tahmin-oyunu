@@ -12,7 +12,7 @@ Bu proje, C# Windows Forms ile yapılmış basit bir 3 haneli sayı tahmin oyunu
 
 * Rastgele Sayı Üretme: Oyun her başladığında 100 ile 999 arasında rastgele bir sayı belirler.
 * Kullanıcı Girdisi: Kullanıcı, metin kutusuna 3 haneli bir tahminde bulunur.
-* Anlık Geri Bildirim: Program, kullanıcının tahminini hedef sayıyla karşılaştırır ve "Daha Yüksek", "Daha Düşük" veya "Tebrikler, Doğru Bildiniz!" şeklinde geri bildirim verir.
+* Anlık Geri Bildirim: Program, kullanıcının tahminini hedef sayıyla karşılaştırır ve dogru yerde mi yoksa dogru sayımı diye bakılır.
 * Tekrar Oynama: Kullanıcı doğru sayıyı bulduğunda veya yeniden başlamak istediğinde yeni bir oyun başlatılabilir.
 
 
